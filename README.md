@@ -1,2 +1,2 @@
 # InstalledSoftwareLister
-PowerSehll to list installed software
+PowerShell to list installed software
